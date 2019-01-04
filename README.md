@@ -1,4 +1,4 @@
-Testing plural to singular mapping for art thesaurus terms that need OpenRefine reconciliation.
+Testing plural to singular mapping for art thesaurus terms that need OpenRefine reconciliation (by Andrew Lih, User:Fuzheado) 
 
 In the GLAM domain, popular art vocabularies typically use plural (and/or capitalized) terms, such as "Mice" vs "mouse" or "Tapestries" vs "tapestry."
 
