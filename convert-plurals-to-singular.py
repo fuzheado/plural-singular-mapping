@@ -3,6 +3,7 @@
 
 # Script for converting capitalized and plural art vocabulary terms to lowercae singular, 
 # more appropriate for OpenRefine reconciliation to Wikidata
+# by Andrew Lih (Wikipedia User:Fuzheado)
 
 # Use pattern package - https://www.clips.uantwerpen.be/pages/pattern-en
 from pattern.text.en import singularize
